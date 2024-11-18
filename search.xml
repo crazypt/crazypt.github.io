@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>A farewell letter to a teacher who practiced &quot;Be hungry, be foolish.&quot;</title>
+    <url>/2024/11/14/A%20parting%20letter%20to%20a%20teacher%20who%20practiced%20%22Be%20hungry,%20be%20foolish.%22/</url>
+    <content><![CDATA[<p>Dear Teacher Kelly,</p>
+<p>I hope this message finds you well.</p>
+<p>I was both surprised and saddened to learn that you will be transferring to a different school for teaching. Over the past three months, you have not only guided me in my English studies but also embodied a profound appreciation for the mindset of “Stay hungry, stay foolish,” as expressed by Steve Jobs (also as written in my practical writing for the  first exam in my senior high).</p>
+<p>As a student with already strong English skills, I often pursue my studies independently on class. However, your approach to lifelong learning has deeply moved me. In every lesson, you not only imparted knowledge but also demonstrated the importance of embracing innovation, such as integrating new technologies like AI into the classroom. Your commitment to nurturing each student’s potential and adjusting your teaching methods to our individual needs has left a lasting impression on me. It made me realize that learning is not only about accumulating knowledge, but also about maintaining a humble and persistent attitude towards growth.</p>
+<p>Steve Jobs once said, “Stay hungry, stay foolish.” Through your example, I’ve come to truly understand the depth of this philosophy. Regardless of how much we know, we must always remain hungry for knowledge and humble in our approach to the unknown. If possible, I would be honored to share this letter with the students at your new school, encouraging them to embrace this mindset as they face the challenges ahead. By staying curious, humble, and determined, they can keep growing and learning, no matter where their journey takes them.</p>
+<p>Although you will soon be leaving, I am confident that your dedication to teaching and your passion for knowledge will continue to inspire and shape the lives of many more students. I will carry forward the lessons you’ve imparted, keeping the spirit of curiosity and humility alive in my own learning journey.  Meanwhile,  I look forward to your triumphant return and to the opportunity to share with you the progress I will have made.</p>
+<p>I wish you all the best in your new role, may your continued dedication to education continue to illuminate the paths of many students, and look forward to the day when we meet again, both having grown from our experiences.</p>
+<p>With deep respect,<br>Elon Luan</p>
+]]></content>
+      <tags>
+        <tag>英语</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>下载中小学高清PDF版教材的方法分享</title>
     <url>/2024/09/07/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%B8%85PDF%E7%89%88%E6%95%99%E6%9D%90%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%86%E4%BA%AB/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>你是否曾经因寻找不到高清的电子版教材而困扰？或者被迫关注公众号、购买资源网站会员，最后下载的资源还布满该死的第三方水印？事实上，由教育部创建的<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>上就提供了几乎所有的中小学教材的在线预览。</p>
@@ -81,12 +98,6 @@
       </tags>
   </entry>
   <entry>
-    <title>欢迎来到CrazyPt的个人博客！</title>
-    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
-    <content><![CDATA[<p>Hello World!</p>
-]]></content>
-  </entry>
-  <entry>
     <title>开篇絮语——这是属于我的博客</title>
     <url>/2024/08/15/%E5%BC%80%E7%AF%87%E7%B5%AE%E8%AF%AD%E2%80%94%E2%80%94%E8%BF%99%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>反反复复折腾了好几天，终于成功了……我的环境是MacOS，主要参考了<a class="link"   href="http://t.csdnimg.cn/uUMx2" >这篇文章 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。期间遇到的问题实在是数不胜数……（直到现在都只能用npx调用hexo函数，之前也试着改过环境变量，结果一切函数都失效了）<br>不过还是要感谢自己的这份倔强，使得我的第一篇测试博客在2024-08-14 21:19:42发表~<br>以下，我想聊聊我搭建博客的心路历程和目的。</p>
@@ -107,8 +118,14 @@
       </tags>
   </entry>
   <entry>
+    <title>欢迎来到CrazyPt的个人博客！</title>
+    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
+    <content><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  <entry>
     <title>从2024广西中考数学23题看“综合与实践”</title>
-    <url>/2024/09/08/2024%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A623%E9%A2%98%E8%A7%A3%E6%9E%90/</url>
+    <url>/2024/09/08/%E4%BB%8E2024%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A623%E9%A2%98%E7%9C%8B%E2%80%9C%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%E2%80%9D/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>笔者为2024年广西学业水平考试（以下简称中考）考生，于2024年5月19日受数学老师启发，结合<strong>2023年广西中考数学25题</strong>“综合与实践”考察情况，并参考<strong>2023年北京中考数学25题</strong>和<strong>北京市朝阳区2023~2024学年度第一学期期末检测八年级数学试卷26题</strong>，创作了一道符合广西考情的“综合与实践”题目，2024年6月27日参加中考数学科目考试时，发现<strong>2024年广西中考数学23题</strong>与本人所创作题目高度相似，本文分别对以上题目进行解析并发表对于广西中考数学“综合与实践”题型的看法。</p>
 <p><strong>特别声明：本文章仅作学术分享，无“成功押中中考题”“广西中考考察外地原题”等意，本人与中考出题人并无关联，请勿妄下断语。本文章原创内容（除上一段落表粗的原题外）受<a class="link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">CC BY-NC-SA 4.0 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>版权保护，规则如下：</strong></p>
 <blockquote>

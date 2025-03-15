@@ -1,92 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>下载中小学高清PDF版教材的方法分享</title>
-    <url>/2024/09/07/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%B8%85PDF%E7%89%88%E6%95%99%E6%9D%90%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%86%E4%BA%AB/</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>你是否曾经因寻找不到高清的电子版教材而困扰？或者被迫关注公众号、购买资源网站会员，最后下载的资源还布满该死的第三方水印？事实上，由教育部创建的<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>上就提供了几乎所有的中小学教材的在线预览。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257143948572.jpg"
-                     
-                ></p>
-<p>但是，该网站提供的PDF预览实在不尽人意，于是下面将为你提供一种可以直接下载PDF文件的方法。</p>
-<p>请注意：根据<a class="link"   href="https://basic.smartedu.cn/copyright" >网站声明<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>（见下方），本文章分享方法仅供各位下载文件后自行预览，请不要转载内容并在预览完成后及时删除。</p>
-<blockquote>
-<p>网站声明：本平台网站内容由相关单位、学校、教师、学生上传发布，平台网站仅提供存储空间服务和平台网站内容在线浏览播放服务。未经许可任何媒体、互联网站、App应用、商业机构、个人不得转载本平台网站发布的内容，也不得改编本平台网站发布的内容。</p>
-</blockquote>
-<h3 id="方法介绍"><a href="#方法介绍" class="headerlink" title="方法介绍"></a>方法介绍</h3><p><strong>本教程以MacOS系统为例，其他系统类似</strong></p>
-<h4 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h4><ul>
-<li>在浏览器（<strong>建议使用Google Chrome</strong>）中打开<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并点击右上角登录智教中国通行证（未注册的点击“注册”）<br><strong>注意：未登录则无法进入教材查看页面</strong></li>
-<li>此时页面应如图所示</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257143948572.jpg"
-                     
-                ></p>
-<h4 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h4><ul>
-<li>找到你想要下载的电子版教材（左侧选择学段，上方选择学科、版本、年级）并单击进入预览页面</li>
-<li>此处以数学人教版一年级下册为例</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257143440759.jpg"
-                     
-                ></p>
-<h4 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h4><ul>
-<li>在键盘上同时按下 fn 和 F12 键（Windows系统按下 F12 键），或右键空白处点击“检查”进入浏览器检查页面（开发者工具）</li>
-<li>在右上方单击双箭头进入“网络”页面</li>
-<li>重新加载网页并稍等，直到检查框中最左侧一栏出现 <em>pdf.pdf</em></li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257147140636.jpg"
-                     
-                ></p>
-<ul>
-<li>双击 <em>pdf.pdf</em> ，此时跳转到如下页面</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257147989052.jpg"
-                     
-                ></p>
-<ul>
-<li>删除地址栏中的“-private”，并重新加载网页<blockquote>
-<p>例如：原地址为 （前略）<em>r2-ndr-private.ykt.cbern.com.cn</em>（后略）<br>     将其修改为 （前略）<em>r2-ndr.ykt.cbern.com.cn</em>（后略）</p>
-</blockquote>
-</li>
-<li>此时显示出电子版教材源文件，单击左上方三横线即可下载</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257149989782.jpg"
-                     
-                ></p>
-<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>大功告成！现在你已经成功学会通过<em>国家智慧教育公共服务平台</em>便捷下载电子版教材，<strong>本教程旨在帮助广大学生和教育工作者更方便地学习和工作，严厉抵制借此方法牟利的不法行为</strong>。</p>
-<p>感谢您的阅读！如果感到有帮助的话，欢迎将本博客分享给你的同事和同学。我的博客主页还有更多精彩内容，欢迎阅览~</p>
-<blockquote>
-<p>Stay hungry, stay foolish. –Steve Jobs</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>学习</tag>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>欢迎来到CrazyPt的个人博客！</title>
-    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
-    <content><![CDATA[<p>Hello World!</p>
-]]></content>
-  </entry>
-  <entry>
     <title>从2024广西中考数学23题看“综合与实践”</title>
     <url>/2024/09/08/%E4%BB%8E2024%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A623%E9%A2%98%E7%9C%8B%E2%80%9C%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%E2%80%9D/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>笔者为2024年广西学业水平考试（以下简称中考）考生，于2024年5月19日受数学老师启发，结合<strong>2023年广西中考数学25题</strong>“综合与实践”考察情况，并参考<strong>2023年北京中考数学25题</strong>和<strong>北京市朝阳区2023~2024学年度第一学期期末检测八年级数学试卷26题</strong>，创作了一道符合广西考情的“综合与实践”题目，2024年6月27日参加中考数学科目考试时，发现<strong>2024年广西中考数学23题</strong>与本人所创作题目高度相似，本文分别对以上题目进行解析并发表对于广西中考数学“综合与实践”题型的看法。</p>
@@ -258,24 +172,90 @@
       </tags>
   </entry>
   <entry>
-    <title>A farewell letter to a teacher who practiced &quot;stay hungry, stay foolish&quot;</title>
-    <url>/2024/11/14/A%20farewell%20letter%20to%20a%20teacher%20who%20practiced%20%22stay%20hungry,%20stay%20foolish%22/</url>
-    <content><![CDATA[<p>Upon learning that my esteemed English teacher, Kelly, will no longer be teaching us due to a job transfer, I have written this farewell letter to commend her qualities of ‘stay hungry, stay foolish’, to express my heartfelt gratitude, and to wish her continued success in her new role.</p>
+    <title>下载中小学高清PDF版教材的方法分享</title>
+    <url>/2024/09/07/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%B8%85PDF%E7%89%88%E6%95%99%E6%9D%90%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%86%E4%BA%AB/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>你是否曾经因寻找不到高清的电子版教材而困扰？或者被迫关注公众号、购买资源网站会员，最后下载的资源还布满该死的第三方水印？事实上，由教育部创建的<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>上就提供了几乎所有的中小学教材的在线预览。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257143948572.jpg"
+                     
+                ></p>
+<p>但是，该网站提供的PDF预览实在不尽人意，于是下面将为你提供一种可以直接下载PDF文件的方法。</p>
+<p>请注意：根据<a class="link"   href="https://basic.smartedu.cn/copyright" >网站声明<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>（见下方），本文章分享方法仅供各位下载文件后自行预览，请不要转载内容并在预览完成后及时删除。</p>
 <blockquote>
-<p>Dear Teacher Kelly,</p>
-<p>I hope this message finds you well.</p>
-<p>I was both surprised and saddened to learn that you will be transferring to a different school for teaching. Over the past three months, you have not only guided me in my English studies but also embodied a profound appreciation for the mindset of “Stay hungry, stay foolish,” as expressed by Steve Jobs (also as written in my practical writing for the  first exam in my senior high).</p>
-<p>As a student with already strong English skills, I often pursue my studies independently on class. However, your approach to lifelong learning has deeply moved me. In every lesson, you not only imparted knowledge but also demonstrated the importance of embracing innovation, such as integrating new technologies like AI into the classroom. Your commitment to nurturing each student’s potential and adjusting your teaching methods to our individual needs has left a lasting impression on me. It made me realize that learning is not only about accumulating knowledge, but also about maintaining a humble and persistent attitude towards growth.</p>
-<p>Steve Jobs once said, “Stay hungry, stay foolish.” Through your example, I’ve come to truly understand the depth of this philosophy. Regardless of how much we know, we must always remain hungry for knowledge and humble in our approach to the unknown. If possible, I would be honored to share this letter with the students at your new school, encouraging them to embrace this mindset as they face the challenges ahead. By staying curious, humble, and determined, they can keep growing and learning, no matter where their journey takes them.</p>
-<p>Although you will soon be leaving, I am confident that your dedication to teaching and your passion for knowledge will continue to inspire and shape the lives of many more students. I will carry forward the lessons you’ve imparted, keeping the spirit of curiosity and humility alive in my own learning journey.  Meanwhile,  I look forward to your triumphant return and to the opportunity to share with you the progress I will have made.</p>
-<p>I wish you all the best in your new role, may your continued dedication to education continue to illuminate the paths of many students, and look forward to the day when we meet again, both having grown from our experiences.</p>
-<p>With deep respect,<br>Elon Luan</p>
+<p>网站声明：本平台网站内容由相关单位、学校、教师、学生上传发布，平台网站仅提供存储空间服务和平台网站内容在线浏览播放服务。未经许可任何媒体、互联网站、App应用、商业机构、个人不得转载本平台网站发布的内容，也不得改编本平台网站发布的内容。</p>
+</blockquote>
+<h3 id="方法介绍"><a href="#方法介绍" class="headerlink" title="方法介绍"></a>方法介绍</h3><p><strong>本教程以MacOS系统为例，其他系统类似</strong></p>
+<h4 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h4><ul>
+<li>在浏览器（<strong>建议使用Google Chrome</strong>）中打开<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并点击右上角登录智教中国通行证（未注册的点击“注册”）<br><strong>注意：未登录则无法进入教材查看页面</strong></li>
+<li>此时页面应如图所示</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257143948572.jpg"
+                     
+                ></p>
+<h4 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h4><ul>
+<li>找到你想要下载的电子版教材（左侧选择学段，上方选择学科、版本、年级）并单击进入预览页面</li>
+<li>此处以数学人教版一年级下册为例</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257143440759.jpg"
+                     
+                ></p>
+<h4 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h4><ul>
+<li>在键盘上同时按下 fn 和 F12 键（Windows系统按下 F12 键），或右键空白处点击“检查”进入浏览器检查页面（开发者工具）</li>
+<li>在右上方单击双箭头进入“网络”页面</li>
+<li>重新加载网页并稍等，直到检查框中最左侧一栏出现 <em>pdf.pdf</em></li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257147140636.jpg"
+                     
+                ></p>
+<ul>
+<li>双击 <em>pdf.pdf</em> ，此时跳转到如下页面</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257147989052.jpg"
+                     
+                ></p>
+<ul>
+<li>删除地址栏中的“-private”，并重新加载网页<blockquote>
+<p>例如：原地址为 （前略）<em>r2-ndr-private.ykt.cbern.com.cn</em>（后略）<br>     将其修改为 （前略）<em>r2-ndr.ykt.cbern.com.cn</em>（后略）</p>
+</blockquote>
+</li>
+<li>此时显示出电子版教材源文件，单击左上方三横线即可下载</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257149989782.jpg"
+                     
+                ></p>
+<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>大功告成！现在你已经成功学会通过<em>国家智慧教育公共服务平台</em>便捷下载电子版教材，<strong>本教程旨在帮助广大学生和教育工作者更方便地学习和工作，严厉抵制借此方法牟利的不法行为</strong>。</p>
+<p>感谢您的阅读！如果感到有帮助的话，欢迎将本博客分享给你的同事和同学。我的博客主页还有更多精彩内容，欢迎阅览~</p>
+<blockquote>
+<p>Stay hungry, stay foolish. –Steve Jobs</p>
 </blockquote>
 ]]></content>
       <tags>
-        <tag>英语</tag>
-        <tag>随笔</tag>
+        <tag>学习</tag>
+        <tag>教程</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>欢迎来到CrazyPt的个人博客！</title>
+    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
+    <content><![CDATA[<p>Hello World!</p>
+]]></content>
   </entry>
   <entry>
     <title>开篇絮语——这是属于我的博客</title>
@@ -295,6 +275,26 @@
 ]]></content>
       <tags>
         <tag>絮语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A farewell letter to a teacher who practiced &quot;stay hungry, stay foolish&quot;</title>
+    <url>/2024/11/14/A%20farewell%20letter%20to%20a%20teacher%20who%20practiced%20%22stay%20hungry,%20stay%20foolish%22/</url>
+    <content><![CDATA[<p>Upon learning that my esteemed English teacher, Kelly, will no longer be teaching us due to a job transfer, I have written this farewell letter to commend her qualities of ‘stay hungry, stay foolish’, to express my heartfelt gratitude, and to wish her continued success in her new role.</p>
+<blockquote>
+<p>Dear Teacher Kelly,</p>
+<p>I hope this message finds you well.</p>
+<p>I was both surprised and saddened to learn that you will be transferring to a different school for teaching. Over the past three months, you have not only guided me in my English studies but also embodied a profound appreciation for the mindset of “Stay hungry, stay foolish,” as expressed by Steve Jobs (also as written in my practical writing for the  first exam in my senior high).</p>
+<p>As a student with already strong English skills, I often pursue my studies independently on class. However, your approach to lifelong learning has deeply moved me. In every lesson, you not only imparted knowledge but also demonstrated the importance of embracing innovation, such as integrating new technologies like AI into the classroom. Your commitment to nurturing each student’s potential and adjusting your teaching methods to our individual needs has left a lasting impression on me. It made me realize that learning is not only about accumulating knowledge, but also about maintaining a humble and persistent attitude towards growth.</p>
+<p>Steve Jobs once said, “Stay hungry, stay foolish.” Through your example, I’ve come to truly understand the depth of this philosophy. Regardless of how much we know, we must always remain hungry for knowledge and humble in our approach to the unknown. If possible, I would be honored to share this letter with the students at your new school, encouraging them to embrace this mindset as they face the challenges ahead. By staying curious, humble, and determined, they can keep growing and learning, no matter where their journey takes them.</p>
+<p>Although you will soon be leaving, I am confident that your dedication to teaching and your passion for knowledge will continue to inspire and shape the lives of many more students. I will carry forward the lessons you’ve imparted, keeping the spirit of curiosity and humility alive in my own learning journey.  Meanwhile,  I look forward to your triumphant return and to the opportunity to share with you the progress I will have made.</p>
+<p>I wish you all the best in your new role, may your continued dedication to education continue to illuminate the paths of many students, and look forward to the day when we meet again, both having grown from our experiences.</p>
+<p>With deep respect,<br>Elon Luan</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>英语</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
 </search>

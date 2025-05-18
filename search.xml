@@ -1,92 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>下载中小学高清PDF版教材的方法分享</title>
-    <url>/2024/09/07/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%B8%85PDF%E7%89%88%E6%95%99%E6%9D%90%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%86%E4%BA%AB/</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>你是否曾经因寻找不到高清的电子版教材而困扰？或者被迫关注公众号、购买资源网站会员，最后下载的资源还布满该死的第三方水印？事实上，由教育部创建的<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>上就提供了几乎所有的中小学教材的在线预览。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257143948572.jpg"
-                     
-                ></p>
-<p>但是，该网站提供的PDF预览实在不尽人意，于是下面将为你提供一种可以直接下载PDF文件的方法。</p>
-<p>请注意：根据<a class="link"   href="https://basic.smartedu.cn/copyright" >网站声明<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>（见下方），本文章分享方法仅供各位下载文件后自行预览，请不要转载内容并在预览完成后及时删除。</p>
-<blockquote>
-<p>网站声明：本平台网站内容由相关单位、学校、教师、学生上传发布，平台网站仅提供存储空间服务和平台网站内容在线浏览播放服务。未经许可任何媒体、互联网站、App应用、商业机构、个人不得转载本平台网站发布的内容，也不得改编本平台网站发布的内容。</p>
-</blockquote>
-<h3 id="方法介绍"><a href="#方法介绍" class="headerlink" title="方法介绍"></a>方法介绍</h3><p><strong>本教程以MacOS系统为例，其他系统类似</strong></p>
-<h4 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h4><ul>
-<li>在浏览器（<strong>建议使用Google Chrome</strong>）中打开<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并点击右上角登录智教中国通行证（未注册的点击“注册”）<br><strong>注意：未登录则无法进入教材查看页面</strong></li>
-<li>此时页面应如图所示</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257143948572.jpg"
-                     
-                ></p>
-<h4 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h4><ul>
-<li>找到你想要下载的电子版教材（左侧选择学段，上方选择学科、版本、年级）并单击进入预览页面</li>
-<li>此处以数学人教版一年级下册为例</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257143440759.jpg"
-                     
-                ></p>
-<h4 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h4><ul>
-<li>在键盘上同时按下 fn 和 F12 键（Windows系统按下 F12 键），或右键空白处点击“检查”进入浏览器检查页面（开发者工具）</li>
-<li>在右上方单击双箭头进入“网络”页面</li>
-<li>重新加载网页并稍等，直到检查框中最左侧一栏出现 <em>pdf.pdf</em></li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257147140636.jpg"
-                     
-                ></p>
-<ul>
-<li>双击 <em>pdf.pdf</em> ，此时跳转到如下页面</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257147989052.jpg"
-                     
-                ></p>
-<ul>
-<li>删除地址栏中的“-private”，并重新加载网页<blockquote>
-<p>例如：原地址为 （前略）<em>r2-ndr-private.ykt.cbern.com.cn</em>（后略）<br>     将其修改为 （前略）<em>r2-ndr.ykt.cbern.com.cn</em>（后略）</p>
-</blockquote>
-</li>
-<li>此时显示出电子版教材源文件，单击左上方三横线即可下载</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/17257149989782.jpg"
-                     
-                ></p>
-<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>大功告成！现在你已经成功学会通过<em>国家智慧教育公共服务平台</em>便捷下载电子版教材，<strong>本教程旨在帮助广大学生和教育工作者更方便地学习和工作，严厉抵制借此方法牟利的不法行为</strong>。</p>
-<p>感谢您的阅读！如果感到有帮助的话，欢迎将本博客分享给你的同事和同学。我的博客主页还有更多精彩内容，欢迎阅览~</p>
-<blockquote>
-<p>Stay hungry, stay foolish. –Steve Jobs</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>学习</tag>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>欢迎来到CrazyPt的个人博客！</title>
-    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
-    <content><![CDATA[<p>Hello World!</p>
-]]></content>
-  </entry>
-  <entry>
     <title>从2024广西中考数学23题看“综合与实践”</title>
     <url>/2024/09/08/%E4%BB%8E2024%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E6%95%B0%E5%AD%A623%E9%A2%98%E7%9C%8B%E2%80%9C%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%E2%80%9D/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>笔者为2024年广西学业水平考试（以下简称中考）考生，于2024年5月19日受数学老师启发，结合<strong>2023年广西中考数学25题</strong>“综合与实践”考察情况，并参考<strong>2023年北京中考数学25题</strong>和<strong>北京市朝阳区2023~2024学年度第一学期期末检测八年级数学试卷26题</strong>，创作了一道符合广西考情的“综合与实践”题目，2024年6月27日参加中考数学科目考试时，发现<strong>2024年广西中考数学23题</strong>与本人所创作题目高度相似，本文分别对以上题目进行解析并发表对于广西中考数学“综合与实践”题型的看法。</p>
@@ -258,6 +172,32 @@
       </tags>
   </entry>
   <entry>
+    <title>欢迎来到CrazyPt的个人博客！</title>
+    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
+    <content><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>开篇絮语——这是属于我的博客</title>
+    <url>/2024/08/15/%E5%BC%80%E7%AF%87%E7%B5%AE%E8%AF%AD%E2%80%94%E2%80%94%E8%BF%99%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>反反复复折腾了好几天，终于成功了……我的环境是MacOS，主要参考了<a class="link"   href="http://t.csdnimg.cn/uUMx2" >这篇文章<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。期间遇到的问题实在是数不胜数……（直到现在都只能用npx调用hexo函数，之前也试着改过环境变量，结果一切函数都失效了）<br>不过还是要感谢自己的这份倔强，使得我的第一篇测试博客在2024-08-14 21:19:42发表~<br>以下，我想聊聊我搭建博客的心路历程和目的。</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="我为何搭建个人博客"><a href="#我为何搭建个人博客" class="headerlink" title="我为何搭建个人博客"></a>我为何搭建个人博客</h3><p>大概去年十一月，受到X同学（同时是小红书粉丝7000+的学习日常区博主）的启发，我也开始在小红书上断断续续发自己的日常，但总感觉受到一些束缚：既不想做引流党，又想要自己的粉丝增长；既想发表“激进”的观点，又担心引来各种麻烦……<br>这才发现，我并不希望暴露在互联网的聚光镜下，仅仅是需要一个平台来记录生活，发表观点罢了。但又不想记私密的日记（颇有无病呻吟的意味），于是便找到了个人博客这种形式。</p>
+<h3 id="我想在博客写些什么"><a href="#我想在博客写些什么" class="headerlink" title="我想在博客写些什么"></a>我想在博客写些什么</h3><p>哈哈！我的博客必然是我自己的天地咯~肯定是想发什么就发什么~~~<br>不过，我毕竟不是技术宅或理工男，所以不要指望我会发什么高深的教程和理科公式（也不一定）。就目前来看，我的博客主要涉足领域将会有：</p>
+<ol>
+<li>学习生活</li>
+<li>旅行记录</li>
+<li>读书笔记</li>
+<li>社科评论</li>
+</ol>
+<p>就我的intp性格来看，一切的计划都有可能成为空想……但请期待我的第一篇正式博客吧~</p>
+<h3 id="我的博客的受众群体"><a href="#我的博客的受众群体" class="headerlink" title="我的博客的受众群体"></a>我的博客的受众群体</h3><p>无论你是从哪里来到我的个人博客，无论你是否曾在三次元世界与我谋面，我相信我们是有缘分的！我的大部分博客都会向所有人公开（这也意味着部分博客会通过加密的形式仅向一些人公开），如果你对我感兴趣，可以在网站中找到并添加我的QQ哦~</p>
+<h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>这是一篇处在测试和正式之间的博客，之后的博客无论从格式到内容也许都会和这篇博客有很大不同吧~<br>但，我相信，你现在正在翻开一本充满未知的书——Stay hungry, stay foolish!</p>
+]]></content>
+      <tags>
+        <tag>絮语</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A farewell letter to a teacher who practiced &quot;stay hungry, stay foolish&quot;</title>
     <url>/2024/11/14/A%20farewell%20letter%20to%20a%20teacher%20who%20practiced%20%22stay%20hungry,%20stay%20foolish%22/</url>
     <content><![CDATA[<p>Upon learning that my esteemed English teacher, Kelly, will no longer be teaching us due to a job transfer, I have written this farewell letter to commend her qualities of ‘stay hungry, stay foolish’, to express my heartfelt gratitude, and to wish her continued success in her new role.</p>
@@ -278,23 +218,83 @@
       </tags>
   </entry>
   <entry>
-    <title>开篇絮语——这是属于我的博客</title>
-    <url>/2024/08/15/%E5%BC%80%E7%AF%87%E7%B5%AE%E8%AF%AD%E2%80%94%E2%80%94%E8%BF%99%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>反反复复折腾了好几天，终于成功了……我的环境是MacOS，主要参考了<a class="link"   href="http://t.csdnimg.cn/uUMx2" >这篇文章<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。期间遇到的问题实在是数不胜数……（直到现在都只能用npx调用hexo函数，之前也试着改过环境变量，结果一切函数都失效了）<br>不过还是要感谢自己的这份倔强，使得我的第一篇测试博客在2024-08-14 21:19:42发表~<br>以下，我想聊聊我搭建博客的心路历程和目的。</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="我为何搭建个人博客"><a href="#我为何搭建个人博客" class="headerlink" title="我为何搭建个人博客"></a>我为何搭建个人博客</h3><p>大概去年十一月，受到X同学（同时是小红书粉丝7000+的学习日常区博主）的启发，我也开始在小红书上断断续续发自己的日常，但总感觉受到一些束缚：既不想做引流党，又想要自己的粉丝增长；既想发表“激进”的观点，又担心引来各种麻烦……<br>这才发现，我并不希望暴露在互联网的聚光镜下，仅仅是需要一个平台来记录生活，发表观点罢了。但又不想记私密的日记（颇有无病呻吟的意味），于是便找到了个人博客这种形式。</p>
-<h3 id="我想在博客写些什么"><a href="#我想在博客写些什么" class="headerlink" title="我想在博客写些什么"></a>我想在博客写些什么</h3><p>哈哈！我的博客必然是我自己的天地咯~肯定是想发什么就发什么~~~<br>不过，我毕竟不是技术宅或理工男，所以不要指望我会发什么高深的教程和理科公式（也不一定）。就目前来看，我的博客主要涉足领域将会有：</p>
-<ol>
-<li>学习生活</li>
-<li>旅行记录</li>
-<li>读书笔记</li>
-<li>社科评论</li>
-</ol>
-<p>就我的intp性格来看，一切的计划都有可能成为空想……但请期待我的第一篇正式博客吧~</p>
-<h3 id="我的博客的受众群体"><a href="#我的博客的受众群体" class="headerlink" title="我的博客的受众群体"></a>我的博客的受众群体</h3><p>无论你是从哪里来到我的个人博客，无论你是否曾在三次元世界与我谋面，我相信我们是有缘分的！我的大部分博客都会向所有人公开（这也意味着部分博客会通过加密的形式仅向一些人公开），如果你对我感兴趣，可以在网站中找到并添加我的QQ哦~</p>
-<h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>这是一篇处在测试和正式之间的博客，之后的博客无论从格式到内容也许都会和这篇博客有很大不同吧~<br>但，我相信，你现在正在翻开一本充满未知的书——Stay hungry, stay foolish!</p>
+    <title>下载中小学高清PDF版教材的方法分享</title>
+    <url>/2024/09/07/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E9%AB%98%E6%B8%85PDF%E7%89%88%E6%95%99%E6%9D%90%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%86%E4%BA%AB/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>你是否曾经因寻找不到高清的电子版教材而困扰？或者被迫关注公众号、购买资源网站会员，最后下载的资源还布满该死的第三方水印？事实上，由教育部创建的<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>上就提供了几乎所有的中小学教材的在线预览。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257143948572.jpg"
+                     
+                ></p>
+<p>但是，该网站提供的PDF预览实在不尽人意，于是下面将为你提供一种可以直接下载PDF文件的方法。</p>
+<p>请注意：根据<a class="link"   href="https://basic.smartedu.cn/copyright" >网站声明<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>（见下方），本文章分享方法仅供各位下载文件后自行预览，请不要转载内容并在预览完成后及时删除。</p>
+<blockquote>
+<p>网站声明：本平台网站内容由相关单位、学校、教师、学生上传发布，平台网站仅提供存储空间服务和平台网站内容在线浏览播放服务。未经许可任何媒体、互联网站、App应用、商业机构、个人不得转载本平台网站发布的内容，也不得改编本平台网站发布的内容。</p>
+</blockquote>
+<h3 id="方法介绍"><a href="#方法介绍" class="headerlink" title="方法介绍"></a>方法介绍</h3><p><strong>本教程以MacOS系统为例，其他系统类似</strong></p>
+<h4 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h4><ul>
+<li>在浏览器（<strong>建议使用Google Chrome</strong>）中打开<a class="link"   href="https://basic.smartedu.cn/tchMaterial" >国家智慧教育公共服务平台<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>并点击右上角登录智教中国通行证（未注册的点击“注册”）<br><strong>注意：未登录则无法进入教材查看页面</strong></li>
+<li>此时页面应如图所示</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257143948572.jpg"
+                     
+                ></p>
+<h4 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h4><ul>
+<li>找到你想要下载的电子版教材（左侧选择学段，上方选择学科、版本、年级）并单击进入预览页面</li>
+<li>此处以数学人教版一年级下册为例</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257143440759.jpg"
+                     
+                ></p>
+<h4 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h4><ul>
+<li>在键盘上同时按下 fn 和 F12 键（Windows系统按下 F12 键），或右键空白处点击“检查”进入浏览器检查页面（开发者工具）</li>
+<li>在右上方单击双箭头进入“网络”页面</li>
+<li>重新加载网页并稍等，直到检查框中最左侧一栏出现 <em>pdf.pdf</em></li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257147140636.jpg"
+                     
+                ></p>
+<ul>
+<li>双击 <em>pdf.pdf</em> ，此时跳转到如下页面</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257147989052.jpg"
+                     
+                ></p>
+<ul>
+<li>删除地址栏中的“-private”，并重新加载网页<blockquote>
+<p>例如：原地址为 （前略）<em>r2-ndr-private.ykt.cbern.com.cn</em>（后略）<br>     将其修改为 （前略）<em>r2-ndr.ykt.cbern.com.cn</em>（后略）</p>
+</blockquote>
+</li>
+<li>此时显示出电子版教材源文件，单击左上方三横线即可下载</li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/17257149989782.jpg"
+                     
+                ></p>
+<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>大功告成！现在你已经成功学会通过<em>国家智慧教育公共服务平台</em>便捷下载电子版教材，<strong>本教程旨在帮助广大学生和教育工作者更方便地学习和工作，严厉抵制借此方法牟利的不法行为</strong>。</p>
+<p>感谢您的阅读！如果感到有帮助的话，欢迎将本博客分享给你的同事和同学。我的博客主页还有更多精彩内容，欢迎阅览~</p>
+<blockquote>
+<p>Stay hungry, stay foolish. –Steve Jobs</p>
+</blockquote>
 ]]></content>
       <tags>
-        <tag>絮语</tag>
+        <tag>学习</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
 </search>

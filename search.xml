@@ -272,12 +272,6 @@
       </tags>
   </entry>
   <entry>
-    <title>欢迎来到CrazyPt的个人博客！</title>
-    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
-    <content><![CDATA[<p>Hello World!</p>
-]]></content>
-  </entry>
-  <entry>
     <title>开篇絮语——这是属于我的博客</title>
     <url>/2024/08/15/%E5%BC%80%E7%AF%87%E7%B5%AE%E8%AF%AD%E2%80%94%E2%80%94%E8%BF%99%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>反反复复折腾了好几天，终于成功了……我的环境是MacOS，主要参考了<a class="link"   href="http://t.csdnimg.cn/uUMx2" >这篇文章<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。期间遇到的问题实在是数不胜数……（直到现在都只能用npx调用hexo函数，之前也试着改过环境变量，结果一切函数都失效了）<br>不过还是要感谢自己的这份倔强，使得我的第一篇测试博客在2024-08-14 21:19:42发表~<br>以下，我想聊聊我搭建博客的心路历程和目的。</p>
@@ -296,5 +290,11 @@
       <tags>
         <tag>絮语</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>欢迎来到CrazyPt的个人博客！</title>
+    <url>/2024/08/14/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0CrazyPt%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/</url>
+    <content><![CDATA[<p>Hello World!</p>
+]]></content>
   </entry>
 </search>

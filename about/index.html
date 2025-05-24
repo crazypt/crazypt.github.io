@@ -686,7 +686,7 @@
 <h3 id="结语：火花永不熄灭"><a href="#结语：火花永不熄灭" class="headerlink" title="结语：火花永不熄灭"></a><strong>结语：火花永不熄灭</strong></h3><p>其实人有的时候还是挺无聊的，居然有兴趣把自己扒开再写下来，又莫名有荒诞感和救赎感。开博客很久才又更新了一次About Me，希望能重新把博客写起来，也许会先从一些小影评开始。</p>
 <h4 id="火花碰撞，也许迎来的是璀璨夺目的星火："><a href="#火花碰撞，也许迎来的是璀璨夺目的星火：" class="headerlink" title="火花碰撞，也许迎来的是璀璨夺目的星火："></a>火花碰撞，也许迎来的是璀璨夺目的星火：</h4><ul>
 <li>QQ：2560666500</li>
-<li>email：<a class="link"   href="mailto:&#x63;&#114;&#97;&#x7a;&#x79;&#112;&#x74;&#x32;&#48;&#48;&#56;&#64;&#105;&#x63;&#108;&#x6f;&#x75;&#100;&#46;&#x63;&#111;&#x6d;" >&#x63;&#114;&#97;&#x7a;&#x79;&#112;&#x74;&#x32;&#48;&#48;&#56;&#64;&#105;&#x63;&#108;&#x6f;&#x75;&#100;&#46;&#x63;&#111;&#x6d;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>email：<a class="link"   href="mailto:&#99;&#114;&#x61;&#122;&#121;&#112;&#116;&#x32;&#48;&#x30;&#x38;&#x40;&#105;&#x63;&#x6c;&#111;&#117;&#100;&#x2e;&#99;&#111;&#109;" >&#99;&#114;&#x61;&#122;&#121;&#112;&#116;&#x32;&#48;&#x30;&#x38;&#x40;&#105;&#x63;&#x6c;&#111;&#117;&#100;&#x2e;&#99;&#111;&#109;<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
 </ul>
 
 	</div>
@@ -702,29 +702,41 @@
 
         
             
-    <div class="twikoo-container">
-        <script data-swup-reload-script
-                src='https://cdnjs.cloudflare.com/ajax/libs/twikoo/1.6.43/twikoo.all.min.js'
-        ></script>
-        <div id="twikoo-comment"></div>
-        <script data-swup-reload-script>
-            function loadTwikoo() {
-                twikoo.init({
-                    el: '#twikoo-comment',
-                    envId: 'https://grand-cheesecake-b33bca.netlify.app/.netlify/functions/twikoo',
-                });
+    <div id="giscus-container"></div>
+    <script data-swup-reload-script defer>
+        async function loadGiscus() {
+            const giscusConfig = {
+                'src': 'https://giscus.app/client.js',
+                'data-repo': 'crazypt/giscus# Github repository name e.g. EvanNotFound/hexo-theme-redefine',
+                'data-repo-id': 'https://giscus.app/client.js# Github repository id',
+                'data-category': 'General# Github discussion category',
+                'data-category-id': 'DIC_kwDOOvv1G84Cqif1# Github discussion category id',
+                'data-mapping': 'pathname',
+                'data-strict': '0',
+                'data-reactions-enabled': '1',
+                'data-emit-metadata': '1',
+                'data-theme': 'preferred_color_scheme',
+                'data-lang': 'zh-CN',
+                'data-input-position': 'top',
+                'data-loading': 'lazy',
+                'crossorigin': 'anonymous',
+                'async': true
             }
-
-            if ('true') {
-                const loadTwikooTimeout = setTimeout(() => {
-                    loadTwikoo();
-                    clearTimeout(loadTwikooTimeout);
-                }, 1000);
-            } else {
-                window.addEventListener('DOMContentLoaded', loadTwikoo);
+            const giscusScript = document.createElement('script');
+            for (const key in giscusConfig) {
+                giscusScript.setAttribute(key, giscusConfig[key]);
             }
-        </script>
-    </div>
+            document.getElementById('giscus-container').appendChild(giscusScript);
+        }
+        if ('true') {
+            let loadGiscusTimeout = setTimeout(() => {
+                loadGiscus();
+                clearTimeout(loadGiscusTimeout);
+            }, 1000);
+        } else {
+            document.addEventListener('DOMContentLoaded', loadGiscus);
+        }
+    </script>
 
 
         
